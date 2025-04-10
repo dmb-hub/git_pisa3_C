@@ -1,0 +1,37 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales y de backup
+*.log
+*.tmp
+*.swp
+*~
+
+# Archivos de sistema de editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js (si lo usáis para generar documentación o algo)
+node_modules/
+
+# Archivos de configuración personal
+.env
+.env.local
+
+# Salida de compilaciones u otros generadores de documentación
+dist/
+build/
+out/
+
+# Ignorar PDFs generados si se exportan los Markdown
+*.pdf
+
+# Ignorar carpetas ocultas de sistema o de uso personal
+*.bak
+*.old
+
+# Por si usáis Mac y se crean estos archivos
+__MACOSX/
