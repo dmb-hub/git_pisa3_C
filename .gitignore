@@ -1,18 +1,35 @@
-# Archivos del sistema
+# Archivos del sistema (macOS y Windows)
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+__MACOSX/
 
 # Archivos temporales y de backup
 *.log
 *.tmp
 *.swp
 *~
+*.bak
+*.old
 
 # Archivos de sistema de editores
 .vscode/
 .idea/
+.history/
 *.sublime-project
 *.sublime-workspace
+*.code-workspace
 
 # Node.js (si lo usáis para generar documentación o algo)
 node_modules/
@@ -28,10 +45,3 @@ out/
 
 # Ignorar PDFs generados si se exportan los Markdown
 *.pdf
-
-# Ignorar carpetas ocultas de sistema o de uso personal
-*.bak
-*.old
-
-# Por si usáis Mac y se crean estos archivos
-__MACOSX/
