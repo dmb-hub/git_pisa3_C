@@ -35,6 +35,6 @@ En el sector de la informática, los procesos de producción incluyen el desarro
 - Reducción del consumo innecesario de energía: Apagar dispositivos no utilizados y promover el teletrabajo para disminuir la huella de carbono.
 
 
-[pagina_siguiente](punto9_1.md)
+[pagina_siguiente](9.1_Sostenibilidad_en_Procesos_de_Productos_Fisicos_Trujillo.md)
 
-[Indice](../md_pisa3_grupoC.md)
+[Indice](../indice_pisa3_C_Trujillo.md)

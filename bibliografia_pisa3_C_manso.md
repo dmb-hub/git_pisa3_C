@@ -1,8 +1,4 @@
-# Sostenibilidad y Economía Circular: Del Enfoque Teórico a la Aplicación Práctica (RA3 y RA4)
-
-## David Manso Boyero, Alberto Trujillo Jiménez, Alfredo Carrero, Pablo Puig
-
-## Bibliografía
+# Bibliografía
 
 1. [DeepSeek](https://deepseek.net/es)
 2. [ChatGPT](https://openai.com/chatgpt/overview/)

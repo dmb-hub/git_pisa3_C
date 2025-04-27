@@ -14,6 +14,6 @@ En el sector de la informática, los retos ambientales y sociales están relacio
 
 Estos retos requieren un compromiso tanto personal como profesional para fomentar el uso responsable de la tecnología y contribuir a un desarrollo sostenible.
 
-[pagina_siguiente](punto3_1.md)
+[pagina_siguiente](3.1_Estrategias_Personales_Para_La_Sostenibilidad_Trujillo.md)
 
-[Indice](../md_pisa3_grupoC.md)
+[Indice](../indice_pisa3_C_Trujillo.md)
