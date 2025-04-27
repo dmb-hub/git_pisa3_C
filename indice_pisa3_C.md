@@ -1,12 +1,12 @@
 # Índice
 
-## Capítulo 4: Modelo de Producción y Consumo
+## Capítulo 4: Modelo de Producción y Consumo (SA-RA4)
 
 - [4. Modelo de Producción y Consumo](4_capitulo4_ra3_pisa3_C_manso/4_modelo_producc_consumo_manso.md)
   - [4.1 Caracterización del Modelo Lineal](4_capitulo4_ra3_pisa3_C_manso/4.1_caracterizacion_modelo_lineal_manso.md)
   - [4.2 Problemáticas del Modelo Actual](4_capitulo4_ra3_pisa3_C_manso/4.2_problematicas_modelo_actual_manso.md)
 
-## Capítulo 6: Comparación entre Economía Verde, Circular y Clásica
+## Capítulo 6: Comparación entre Economía Verde, Circular y Clásica (SA-RA4)
 
 - [6. Comparación entre Economía Verde, Circular y Clásica](6_capitulo6_ra4_pisa3_C_manso/6_comparacion_econ_verde_circ_manso.md)
   - [6.1 Beneficios Económicos](6_capitulo6_ra4_pisa3_C_manso/6.1_beneficios_economicos_manso.md)
