@@ -55,11 +55,13 @@
 
 ## Bibliografía
 
-- [Bibliografía](bibliografia_pisa3_C_manso.md)
+- [Bibliografía](bibliografia_pisa3_C.md)
 
 ## Imágenes
 
-- [Imágenes](img_pisa3_C_manso)
+- [Imágenes David](img_pisa3_C_manso)
+- [Imágenes Alfredo](img_pisa3_C_carrero)
+- [Imágenes Alberto](img_pisa3_C_Trujillo)
 
 ---
 
